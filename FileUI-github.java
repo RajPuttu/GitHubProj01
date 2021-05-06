@@ -1,6 +1,6 @@
 /*
  * The MIT License - Edited and edited again - new change
- *
+ *Added this comment from github side
  * Copyright 2020 Intuit Inc.
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -50,6 +50,7 @@ public class Location {
     }   
     
     public Location click() {
+        //return comment
         return click(1);
     }
     
